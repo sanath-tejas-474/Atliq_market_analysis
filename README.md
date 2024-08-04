@@ -89,16 +89,16 @@ This report outlines a strategic plan for AtliQ Motors to enter and compete in t
 ![Top 10 EV Brands for 2-Wheelers](Charts/1.png)
 
 ### Growth of Top 3 Companies (Fiscal Year 2022-2024)
-![Growth of Top 3 Companies (Fiscal Year 2022-2024)](2.png)
+![Growth of Top 3 Companies (Fiscal Year 2022-2024)](Charts/2.png)
 
 ### Top 10 States with Most EV Vehicles Sold
-![Top 10 States with Most EV Vehicles Sold](3.png)
+![Top 10 States with Most EV Vehicles Sold](Charts/3.png)
 
 ### Top 10 EV Sales in Fiscal Year 2024
-![Top 10 EV Sales in Fiscal Year 2024](5.png)
+![Top 10 EV Sales in Fiscal Year 2024](CHarts/5.png)
 
 ### Market Share in India of Major Companies
-![Market Share in India of Major Companies](6.png)
+![Market Share in India of Major Companies](Charts/6.png)
 
 ## Conclusion
 
