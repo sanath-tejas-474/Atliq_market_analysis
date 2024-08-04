@@ -86,7 +86,7 @@ This report outlines a strategic plan for AtliQ Motors to enter and compete in t
 ## Market Data and Analysis
 
 ### Top 10 EV Brands for 2-Wheelers
-![Top 10 EV Brands for 2-Wheelers](1.png)
+![Top 10 EV Brands for 2-Wheelers](Charts/1.png)
 
 ### Growth of Top 3 Companies (Fiscal Year 2022-2024)
 ![Growth of Top 3 Companies (Fiscal Year 2022-2024)](2.png)
